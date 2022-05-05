@@ -1,2 +1,2 @@
 # parallax-experiment
-playing with parallax website with react and react spring boost library
+for playing with parallax website with react and react spring boost library
